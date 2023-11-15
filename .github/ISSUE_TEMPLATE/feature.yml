@@ -1,11 +1,10 @@
 name: Feature
 description: New functionality
 title: "FEAT: "
-labels: ["stream: backend", "type: feature"]
+labels: ["type: feature"]
 assignees:
   - flipdazed
-  - bulutbuyru
-  - mattiast
+  - OxMarco
 
 body:
   - type: textarea
