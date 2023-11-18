@@ -83,3 +83,4 @@ body:
         - label: frontend - onboarding
         - label: frontend - widget
         - label: frontend - zk credentials
+        - label: frontend - admin
